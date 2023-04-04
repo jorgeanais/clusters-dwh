@@ -1,2 +1,2 @@
 CONN_STRING=postgresql://user:pass@url:port/db
-TARGET_SCHEMA=schema
+TARGET_SCHEMA=dash_cl
